@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @crissolsen, but you can call me Christopher.
-- 👀 I’m interested in education and web development.
-- 🌱 I’m currently learning Laravel but I specialise in Vue/Nuxt.
+- 👀 I’m interested in education.
 - 📫 Reach me at chris@homecode.co.za
 
 <!---
